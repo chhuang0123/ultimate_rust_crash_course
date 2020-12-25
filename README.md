@@ -20,14 +20,14 @@ Rust is required for this course!  The latest stable version is always recommend
    button and follow the instructions to install Rust for your operating system.
    - Please DO NOT install rust via some other package manager.  It will probably be a version that is _really old_.
 
-You should get somewhat similar output if you run commands like the ones below (newer versions are okay).  If you 
-already have an old version of Rust installed, then run `rustup update` to install a newer version.
+You should get somewhat similar output if you run commands like the ones below (newer versions are okay).  If you already have an old version of Rust installed, then run `rustup update` to install a newer version.
 
 ```shell
 $ rustc --version
-rustc 1.42.0 (b8cedc004 2020-03-09)
+rustc 1.48.0 (7eac88abb 2020-11-16)
+
 $ cargo --version
-cargo 1.42.0 (86334295e 2020-01-31)
+cargo 1.48.0 (65cbdd2dc 2020-10-14)
 
 ```
 
