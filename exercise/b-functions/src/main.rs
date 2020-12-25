@@ -14,6 +14,6 @@ fn area_of(x: i32, y: i32) -> i32 {
     x * y
 }
 
-fn volume(width: i32, height: i32, depth: i32) -> i32 {
-    width * height * depth
+fn volume(x: i32, y: i32, z: i32) -> i32 {
+    x * y * z
 }
